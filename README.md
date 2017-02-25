@@ -1,2 +1,2 @@
 # nodejs-material-design-flat-file-blog
-material-design blog created with hexo stylus and bootstrap
+material-design blog created with hexo, ejs, stylus and bootstrap
